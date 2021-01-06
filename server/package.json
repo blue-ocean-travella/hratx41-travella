@@ -15,7 +15,7 @@
     "express": "^4.16.4",
     "faker": "^4.1.0",
     "mongodb": "^3.2.7",
-    "mongoose": "^5.6.1",
+    "mongoose": "^5.7.5",
     "node-fetch": "^2.6.1",
     "nyc": "^14.1.0",
     "unsplash-js": "^5.0.0"
